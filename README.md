@@ -1,0 +1,2 @@
+recognizephone.py - simply script which recognize phone model by neural network (histogram, empirical distribution). Learn network by black images with name format "<firm>_<model>_<some id>" in some directory to make this work.
+statrecognize.py - simply script which recognize phone model by comparing histogram, empirical distribution. Need images with name format "<firm>_<model>_<some id>" as a patterns.
